@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Personal Knowledge Vault</title>
+</head>
+<body>
+
+  <h1>📚 Personal Knowledge Vault</h1>
+
+  <!-- Form -->
+  <div>
+    <input type="text" id="title" placeholder="Title">
+    
+    <select id="type">
+      <option value="note">Note</option>
+      <option value="idea">Idea</option>
+      <option value="link">Link</option>
+      <option value="code">Code</option>
+    </select>
+    <br>
+    <br>
+
+    <textarea id="content" placeholder="Write your content here..."></textarea>
+<br><br>
+    <input type="text" id="tags" placeholder="Tags (comma separated)">
+
+    <button id="saveBtn">Save</button>
+  </div>
+
+  <!-- Items will appear here -->
+  <div id="items"></div>
+
+  <script src="index.js"></script>
+</body>
+</html>
