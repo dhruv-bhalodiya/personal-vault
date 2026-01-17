@@ -5,6 +5,12 @@ Personal Vault is a private and secure application designed to store and manage 
 The goal is to keep all important data organized, easily accessible, and protected in one place.
 
 ---
+## Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** JavaScript  
+- **Storage:** Local Storage
+
+---
 
 ## Features
 
