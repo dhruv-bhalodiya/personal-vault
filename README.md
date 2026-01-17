@@ -1,53 +1,65 @@
 # Personal Vault Project
 
 ## Project Overview
-**Personal Vault** is a secure personal storage application to manage private information such as notes, ideas, links, passwords, and text content in one place.
+Personal Vault is a private and secure application designed to store and manage personal information such as notes, ideas, links, passwords, and text content.  
+The goal is to keep all important data organized, easily accessible, and protected in one place.
 
 ---
 
 ## Features
-- Secure Notes Storage  
-- Ideas Management  
-- Save & Organize Links  
-- Password Storage  
-- Plain Text Storage  
-- Simple & Clean UI  
-- Data Security & Privacy  
+
+### Notes
+Allows users to create, edit, and delete personal notes.  
+Notes can be organized for quick access and long-term reference.
+
+### Ideas
+Provides a space to capture thoughts, plans, and creative ideas.  
+Helps users store ideas instantly before they are forgotten.
+
+### Links
+Enables saving important website links in one location.  
+Users can manage and access frequently used links easily.
+
+### Passwords
+Stores sensitive login credentials securely.  
+Helps users avoid forgetting passwords by keeping them organized.
+
+### Text
+Allows storage of simple text content without formatting.  
+Useful for saving temporary information or quick text entries.
 
 ---
 
 ## Project Timeline
 
-**Start Date:** 17 Jan  
+**Start Date:** 14 Jan 2026  
 **Development Duration:** 2 Weeks  
 **Buffer Time:** 3 Days  
-**Final Completion Date:** 3 Feb  
+**Final Completion Date:** 30 Jan 2026  
 
 ---
 
 ## Task Schedule
 
-| Task                          | End Date |
-|-------------------------------|----------|
-| Project Planning & Setup      | 17 Jan   |
-| UI Design (Basic Layout)      | 18 Jan   |
-| Notes Module Development      | 19 Jan   |
-| Ideas Module Development      | 21 Jan   |
-| Links Management Feature      | 23 Jan   |
-| Password Storage Feature      | 25 Jan   |
-| Text Storage Feature          | 27 Jan   |
-| Security Implementation       | 29 Jan   |
-| Testing & Bug Fixes           | 30 Jan   |
-| Buffer / Improvements         | 3 Feb    |
+| Task                          | End Date       |
+|-------------------------------|----------------|
+| Project Planning & Setup      | 14 Jan 2026    |
+| Basic UI Layout Design        | 15 Jan 2026    |
+| Notes Feature Development     | 17 Jan 2026    |
+| Ideas Feature Development     | 19 Jan 2026    |
+| Links Feature Development     | 21 Jan 2026    |
+| Password Feature Development  | 23 Jan 2026    |
+| Text Feature Development      | 25 Jan 2026    |
+| Data Handling & Validation    | 26 Jan 2026    |
+| Testing & Bug Fixes           | 27 Jan 2026    |
+| Buffer & Final Improvements   | 30 Jan 2026    |
 
 ---
 
-## Buffer Plan
-- UI Improvements  
-- Additional Security Enhancements  
-- Minor Bug Fixes  
+## Buffer Usage
+- Fixing unexpected bugs  
+- Improving user experience  
+- Minor feature enhancements  
+- Final testing. 
 
----
 
-## Status
-⏳ In Progress
